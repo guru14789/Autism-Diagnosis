@@ -1,4 +1,4 @@
-# AuraCare: AI-Enabled Autism Care Platform
+## AI-Enabled Autism Care Platform
 
 A next-generation platform for early childhood autism detection, clinician decision support, and post-diagnosis care management.
 
