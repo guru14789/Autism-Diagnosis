@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pydantic-settings
+numpy
+# The following are optional and will be simulated if not present
+# mediapipe
+# librosa
+# tensorflow-cpu
